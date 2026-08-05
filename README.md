@@ -16,9 +16,9 @@ I'm Nima Rahmanzadeh.
 # 📊 GitHub Stats:
 
 <div align="center">
-  
-![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=NimaRahmanzadeh2007&theme=%7B%22backgroundColor%22%3A%22%230f172a%22%2C%22textColor%22%3A%22%23e2e8f0%22%2C%22accentColor%22%3A%22%230ea5e9%22%2C%22borderColor%22%3A%22%231e293b%22%2C%22waterColor%22%3A%22%230ea5e9%22%2C%22streakColor%22%3A%22%2306b6d4%22%7D)
-  
+
+![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=NimaRahmanzadeh2007&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%23008000%22%2C%22borderColor%22%3A%22%23008000%22%2C%22waterColor%22%3A%22%23008000%22%2C%22streakColor%22%3A%22%2380ff80%22%7D)
+
 </div>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NimaRahmanzadeh2007&theme=github-compact)](...)
